@@ -1,5 +1,6 @@
 # Dinosaur-Run
-Screenshots: ![image](https://github.com/Arshiakhan50/Dinosaur-Run/assets/142938717/d8eb7289-9744-4fef-ad5e-99a555db6c6c)
+## Screenshots: 
+![image](https://github.com/Arshiakhan50/Dinosaur-Run/assets/142938717/d8eb7289-9744-4fef-ad5e-99a555db6c6c)
 ![image](https://github.com/Arshiakhan50/Dinosaur-Run/assets/142938717/bfdd7c5f-3754-4253-a52a-9a2050f34fb4)
 ![image](https://github.com/Arshiakhan50/Dinosaur-Run/assets/142938717/ab7214cf-36cb-4f4a-b428-84bdea3dd3d9)
 ![image](https://github.com/Arshiakhan50/Dinosaur-Run/assets/142938717/4721b2ef-05e0-4446-b541-0c2806a5b67f)
