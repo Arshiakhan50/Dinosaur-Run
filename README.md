@@ -14,7 +14,7 @@ Welcome to Dino Run Game, a fun and endless runner game developed using Python a
 - **Endless Runner Gameplay**
 - Experience classic endless runner gameplay where the goal is to survive as long as possible.
 
-- **Classes and Objects**: The game's elements, such as the dinosaur, cacti, and birds, are implemented as Python classes. Each class encapsulates both data (attributes) and behavior (methods).
+- **Classes and Objects**: The game's elements, such as the dinosaur, cacti, and birds, are implemented as Python classes. Each class encapsulates both data (attributes) and methods.
 
 - **Inheritance**: Inheritance is utilized to create specialized classes for different game elements (e.g., Dino, Cactus, Bird), inheriting common attributes and behaviors from a base class.
 
