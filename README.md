@@ -18,7 +18,7 @@ Welcome to Dino Run Game, a fun and endless runner game developed using Python a
 
 - **Inheritance**: Inheritance is utilized to create specialized classes for different game elements (e.g., Dino, Cactus, Bird), inheriting common attributes and behaviors from a base class.
 
-### 4. Dynamic Difficulty
+### Dynamic Difficulty
 - As you progress, the game gets progressively more challenging with faster obstacles.
 - Collecting more points unlocks even greater speed challenges.
 
