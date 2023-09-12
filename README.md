@@ -9,6 +9,8 @@
 
 Welcome to Dino Run Game, a fun and endless runner game developed using Python and the Pygame library. In this game, players take control of a dinosaur and navigate through obstacles to achieve the highest score possible.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
+
 ## Features
 
 - **Endless Runner Gameplay**
@@ -17,6 +19,8 @@ Welcome to Dino Run Game, a fun and endless runner game developed using Python a
 - **Classes and Objects**: The game's elements, such as the dinosaur, cacti, and birds, are implemented as Python classes. Each class encapsulates both data (attributes) and methods.
 
 - **Inheritance**: Inheritance is utilized to create specialized classes for different game elements (e.g., Dino, Cactus, Bird), inheriting common attributes and behaviors from a base class.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)
 
 ### Dynamic Difficulty
 - As you progress, the game gets progressively more challenging with faster obstacles.
